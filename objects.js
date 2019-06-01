@@ -3,4 +3,4 @@ var playlist = {
   'Linkin Park': 'In The End'
 }
 
-function updatePlaylist(playlist, artistname, song)
+function updatePlaylist(playlist, artistname, songtitle)
